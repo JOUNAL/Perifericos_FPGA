@@ -55,3 +55,7 @@ endmodule
 <h3>4).Representacion en RTL</h3>
 A continuacion se presenta la representacion en RTL
 <img src="https://github.com/JOUNAL/Perifericos_FPGA/blob/main/Imagenes/RTL_SERVO.png" width=70% height=70%>
+
+<h3>5).Funcionamiento</h3>
+A continuacion se presenta un enlace donde se puede ver el funcionamiento del periferico
+[Video de funcionamiento](https://drive.google.com/file/d/1eP6hcT-DbLMET5MaBT63FeNYaPrZQPG8/view?usp=sharing).
