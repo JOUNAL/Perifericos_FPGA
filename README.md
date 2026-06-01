@@ -3,7 +3,7 @@ En este repositorio se seguira el paso a paso de como manipular y controlar un s
 
 <h3>1).Definir el comportamineto</h3>
 A continuacion se presenta el diagrma de flujo que contendria el control de un servo a travez de las operaciones realizables para una FPGA
-<img src="https://github.com/JOUNAL/Perifericos_FPGA/blob/main/Imagenes/flujograma_servo.png" width=50% height=50%>
+<img src="https://github.com/JOUNAL/Perifericos_FPGA/blob/main/Imagenes/flujograma_servo.png" width=80% height=80%>
 
 
 <h3>2).Definir la estructura</h3>
